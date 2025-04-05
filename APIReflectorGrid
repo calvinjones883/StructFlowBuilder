@@ -1,0 +1,23 @@
+
+---
+
+### **2. 21_APIReflectorGrid**  
+**Description:**  
+A monitoring tool for scanning and comparing the health of a grid of API endpoints.
+
+#### **README.md**
+```markdown
+# APIReflectorGrid - Multi-API Uptime Scanner
+
+APIReflectorGrid is optimized for monitoring large sets of HTTP services with tabular summaries.
+
+## Features
+- Logs HTTP codes + latency  
+- Real-time summary grid  
+- Export to CSV or JSON  
+
+## Usage
+```bash
+git clone https://github.com/your-username/21_APIReflectorGrid.git
+cd 21_APIReflectorGrid
+python monitor.py
