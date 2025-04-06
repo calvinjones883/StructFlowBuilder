@@ -1,0 +1,23 @@
+
+---
+
+### **3. 21_LogPulseDeck**  
+**Description:**  
+Scans and groups log lines by frequency and error type to highlight repeated issues.
+
+#### **README.md**
+```markdown
+# LogPulseDeck - Pattern & Anomaly Log Analyzer
+
+LogPulseDeck gives you insights into what's repeating, what's spiking, and what shouldn't be in your logs.
+
+## Features
+- Frequency + timestamp clustering  
+- Custom keyword highlights  
+- Summary reports  
+
+## Usage
+```bash
+git clone https://github.com/your-username/21_LogPulseDeck.git
+cd 21_LogPulseDeck
+python analyze.py logs/error.log
