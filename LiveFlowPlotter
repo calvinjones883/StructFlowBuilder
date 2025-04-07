@@ -1,0 +1,23 @@
+
+---
+
+### **4. 21_LiveFlowPlotter**  
+**Description:**  
+A live chart utility for visualizing streamed numerical input in real-time.
+
+#### **README.md**
+```markdown
+# LiveFlowPlotter - Realtime Chart Viewer
+
+LiveFlowPlotter displays any incoming numeric stream as a continuously updating line chart.
+
+## Features
+- Smooth chart animation  
+- Adjustable frame rate  
+- CLI integration  
+
+## Usage
+```bash
+git clone https://github.com/your-username/21_LiveFlowPlotter.git
+cd 21_LiveFlowPlotter
+python visualize.py
